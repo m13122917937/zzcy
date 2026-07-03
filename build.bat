@@ -28,7 +28,7 @@ echo.
     --include-package=psutil ^
     --include-package=openpyxl ^
     --include-package=pandas ^
-    --include-module=environment_config ^
+    --include-module=environmtent_config ^
     --include-module=apple_search_api ^
     --no-prefer-source-code ^
     --output-filename=AppleQueryTool.exe ^
